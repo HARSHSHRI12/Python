@@ -1,0 +1,8 @@
+a=input("Enter first number :")
+b=input("Enter second number :")
+#print(not(a==b))
+#print(type(a==b))
+#print(b and a)
+#print(type(a and b ))
+print(a or b)
+print(type(a and b ))
